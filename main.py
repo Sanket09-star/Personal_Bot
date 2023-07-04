@@ -6,17 +6,17 @@ from bardapi import Bard
 '''
 For token :
 Go to the google bard 
-Sign in your account 
-Then go to inspect section
-Click on application then cookies
+Sign in to your account 
+Then go to inspect a section
+Click on the application then cookies
 then click on first link(https:bard.google...
 find in the 'Name' column '_Secure-1PSID' in that row copy Value of that _Secure-1PSID
-Paste that value in token..
+Paste that value in the token.
 
-Note : while performing this application you must signed in google bard
+Note: while performing this application you must be signed in to google bard
 Your token value is important, Therefore do not share your token value.
 
-It is better to  use JSON string as the credential for Client initialization instead of the filepath.
+It is better to  use JSON string as the credential for Client initialization instead of the file path.
 '''
 
 
